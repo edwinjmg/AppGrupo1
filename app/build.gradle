@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.edwinjmg.appgrupo1'
+    namespace 'com.example.restaurante'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.edwinjmg.appgrupo1"
+        applicationId "com.example.restaurante"
         minSdk 23
         targetSdk 32
         versionCode 1

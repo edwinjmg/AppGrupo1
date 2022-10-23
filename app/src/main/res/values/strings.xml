@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">AppGrupo1</string>
+    <string name="app_name">Restaurante</string>
+    <string name="edt_usuario">User</string>
+    <string name="txt_usuario">Input user</string>
+    <string name="edt_clave">Password</string>
+    <string name="txt_clave">Input your password</string>
+    <string name="btn_ingresar">Login</string>
+    <string name="btn_registrar">Check in</string>
+    <string name="txt_bienvenidos">Welcome</string>
+    <string name="alert_titulo">Danger Alert</string>
+    <string name="alert_mensage_usuario">Incorrect user or password</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="if_bienvenido">Welcome</string>
+    <string name="if_mensage">Are you sure to enter?</string>
+    <string name="btn_confirmar">Confirm</string>
+    <string name="credenciales">Valid credentials</string>
+    <string name="btn_Can_ingreso">I cancel the entry</string>
+
 </resources>
